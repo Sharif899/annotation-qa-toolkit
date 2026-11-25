@@ -1,0 +1,356 @@
+{
+  "images": [
+    {
+      "id": "img_001",
+      "file_name": "street_001.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "img_002",
+      "file_name": "street_002.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "img_003",
+      "file_name": "market_001.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "img_004",
+      "file_name": "market_002.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "img_005",
+      "file_name": "park_001.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "img_006",
+      "file_name": "park_002.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "img_007",
+      "file_name": "road_001.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "img_008",
+      "file_name": "road_002.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "img_009",
+      "file_name": "shop_001.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": "img_010",
+      "file_name": "shop_002.jpg",
+      "width": 640,
+      "height": 480
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": "img_001",
+      "category_id": 1,
+      "bbox": [
+        100,
+        200,
+        220,
+        130
+      ]
+    },
+    {
+      "id": 2,
+      "image_id": "img_001",
+      "category_id": 2,
+      "bbox": [
+        400,
+        250,
+        60,
+        140
+      ]
+    },
+    {
+      "id": 3,
+      "image_id": "img_001",
+      "category_id": 4,
+      "bbox": [
+        900,
+        80,
+        40,
+        90
+      ]
+    },
+    {
+      "id": 4,
+      "image_id": "img_002",
+      "category_id": 1,
+      "bbox": [
+        50,
+        300,
+        260,
+        150
+      ]
+    },
+    {
+      "id": 5,
+      "image_id": "img_002",
+      "category_id": 1,
+      "bbox": [
+        700,
+        280,
+        240,
+        140
+      ]
+    },
+    {
+      "id": 6,
+      "image_id": "img_002",
+      "category_id": 2,
+      "bbox": [
+        500,
+        320,
+        55,
+        130
+      ]
+    },
+    {
+      "id": 7,
+      "image_id": "img_002",
+      "category_id": 2,
+      "bbox": [
+        500,
+        320,
+        55,
+        130
+      ]
+    },
+    {
+      "id": 8,
+      "image_id": "img_003",
+      "category_id": 2,
+      "bbox": [
+        200,
+        150,
+        70,
+        160
+      ]
+    },
+    {
+      "id": 9,
+      "image_id": "img_003",
+      "category_id": 3,
+      "bbox": [
+        350,
+        300,
+        120,
+        90
+      ]
+    },
+    {
+      "id": 10,
+      "image_id": "img_003",
+      "category_id": 5,
+      "bbox": [
+        600,
+        400,
+        90,
+        70
+      ]
+    },
+    {
+      "id": 11,
+      "image_id": "img_004",
+      "category_id": 1,
+      "bbox": [
+        900,
+        500,
+        300,
+        200
+      ]
+    },
+    {
+      "id": 12,
+      "image_id": "img_004",
+      "category_id": 2,
+      "bbox": [
+        100,
+        100,
+        50,
+        120
+      ]
+    },
+    {
+      "id": 13,
+      "image_id": "img_005",
+      "category_id": 5,
+      "bbox": [
+        300,
+        200,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 14,
+      "image_id": "img_005",
+      "category_id": 2,
+      "bbox": [
+        500,
+        150,
+        60,
+        150
+      ]
+    },
+    {
+      "id": 15,
+      "image_id": "img_006",
+      "category_id": 3,
+      "bbox": [
+        100,
+        200,
+        110,
+        80
+      ]
+    },
+    {
+      "id": 16,
+      "image_id": "img_006",
+      "category_id": 3,
+      "bbox": [
+        120,
+        205,
+        110,
+        80
+      ]
+    },
+    {
+      "id": 17,
+      "image_id": "img_007",
+      "category_id": 1,
+      "bbox": [
+        200,
+        400,
+        300,
+        180
+      ]
+    },
+    {
+      "id": 18,
+      "image_id": "img_007",
+      "category_id": 1,
+      "bbox": [
+        900,
+        420,
+        320,
+        190
+      ]
+    },
+    {
+      "id": 19,
+      "image_id": "img_007",
+      "category_id": 2,
+      "bbox": [
+        1500,
+        500,
+        60,
+        150
+      ]
+    },
+    {
+      "id": 20,
+      "image_id": "img_007",
+      "category_id": 4,
+      "bbox": [
+        1700,
+        100,
+        45,
+        100
+      ]
+    },
+    {
+      "id": 21,
+      "image_id": "img_008",
+      "category_id": 1,
+      "bbox": [
+        100,
+        500,
+        280,
+        170
+      ]
+    },
+    {
+      "id": 22,
+      "image_id": "img_008",
+      "category_id": 6,
+      "bbox": [
+        800,
+        450,
+        60,
+        140
+      ]
+    },
+    {
+      "id": 23,
+      "image_id": "img_009",
+      "category_id": 5,
+      "bbox": [
+        200,
+        200,
+        100,
+        80
+      ]
+    },
+    {
+      "id": 24,
+      "image_id": "img_009",
+      "category_id": 2,
+      "bbox": [
+        400,
+        180,
+        55,
+        130
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "car"
+    },
+    {
+      "id": 2,
+      "name": "person"
+    },
+    {
+      "id": 3,
+      "name": "bicycle"
+    },
+    {
+      "id": 4,
+      "name": "traffic_light"
+    },
+    {
+      "id": 5,
+      "name": "dog"
+    },
+    {
+      "id": 6,
+      "name": "Person"
+    }
+  ]
+}
